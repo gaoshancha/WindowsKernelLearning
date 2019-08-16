@@ -1,0 +1,8 @@
+﻿  Building 'AnotherBSOD' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  AnotherBSOD.cpp
+  AnotherBSOD.vcxproj -> C:\repos\DriverDebugging\AnotherBSOD\x64\Debug\AnotherBSOD.sys
+  Done Adding Additional Store
+  Successfully signed: C:\repos\DriverDebugging\AnotherBSOD\x64\Debug\AnotherBSOD.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

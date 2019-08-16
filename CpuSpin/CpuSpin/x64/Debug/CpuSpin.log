@@ -1,0 +1,9 @@
+﻿  Building 'CpuSpin' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: Spectre mitigation is enabled but Spectre mitigated libraries are not found.  Verify that the Visual Studio Workload includes the Spectre mitigated libraries.  See https://aka.ms/Ofhn4c for more information.
+  CpuSpin.cpp
+  CpuSpin.vcxproj -> C:\repos\DriverDebugging\CpuSpin\x64\Debug\CpuSpin.sys
+  Done Adding Additional Store
+  Successfully signed: C:\repos\DriverDebugging\CpuSpin\x64\Debug\CpuSpin.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

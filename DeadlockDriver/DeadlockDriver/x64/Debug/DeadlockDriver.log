@@ -1,0 +1,8 @@
+﻿  Building 'DeadlockDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DeadlockDriver.cpp
+  DeadlockDriver.vcxproj -> C:\repos\DriverDebugging\DeadlockDriver\x64\Debug\DeadlockDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\repos\DriverDebugging\DeadlockDriver\x64\Debug\DeadlockDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

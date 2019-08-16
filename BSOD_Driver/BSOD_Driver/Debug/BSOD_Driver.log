@@ -1,0 +1,2 @@
+﻿  Building 'BSOD_Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets(460,5): error MSB6004: The specified task executable location "\stampinf.exe" is invalid.

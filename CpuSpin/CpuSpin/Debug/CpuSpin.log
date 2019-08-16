@@ -1,0 +1,3 @@
+﻿  Building 'CpuSpin' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  CpuSpin.cpp
+c:\repos\driverdebugging\cpuspin\cpuspin\cpuspin.cpp(103): error C3861: 'ZwWaitForSingleObject': identifier not found
